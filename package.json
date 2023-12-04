@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "npx eslint --max-warnings 0 .",
-    "tsc": "tsc --noEmit"
+    "lint": "npx eslint --max-warnings 0 ."
   },
   "keywords": [],
   "author": "",
